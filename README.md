@@ -80,3 +80,8 @@ To enable the wordlist check:
 3. Run the script as described in the Usage section.
 
 Without the wordlist, the script will still run, but only length and character variety checks will be applied.
+
+--- 
+## Demo
+Here's the password checker in action:
+![Demo Screenshot](Demo.png)
