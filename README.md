@@ -3,7 +3,7 @@ A Python-based password checker that analyzes password strength and uniqueness, 
 
 Created by **Danyl Morris** — my first professional project in Python.  
 This tool analyzes passwords for uniqueness and overall strength, testing them against the `10k-most-common.txt` wordlist from [SecLists](https://github.com/danielmiessler/SecLists).  
-The script can scale to larger wordlists if needed.
+The script can scale to larger wordlists if needed. 
 
 ---
 
