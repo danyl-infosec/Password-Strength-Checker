@@ -84,4 +84,5 @@ Without the wordlist, the script will still run, but only length and character v
 --- 
 ## Demo
 Here's the password checker in action:
+
 ![Demo Screenshot](Demo.png)
